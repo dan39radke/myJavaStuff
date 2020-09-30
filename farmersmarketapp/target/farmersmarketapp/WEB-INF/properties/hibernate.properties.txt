@@ -1,0 +1,5 @@
+connection.driver_class= org.postgresql.Driver
+connection.url= jdbc:postgresql://database-1.ckdonqvjc7hf.us-east-2.rds.amazonaws.com:5432/database_revature720
+connection.username=dan39radke
+connection.password= 51ldLU3gSw2c
+hibernate.db.dialect=org.hibernate.dialect.PostgreSQL9Dialect
