@@ -1,0 +1,53 @@
+
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8äàÀ™¸.
+g
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ì££šüÿÿÿÿ8Ñ®óŠ¸.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8Ññ›¸.
+F
+java:S1168"+Return an empty collection instead of null.(¥¹ï8¥Ùñ“¹.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8°üØ™¸.
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(—ıµ•8Û»Éæ¸.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8Ñ®óŠ¸.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8äàÀ™¸.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8üˆç¸.
+`
+java:S1854"ERemove this useless assignment to local variable "recommendedIncome".(¼‰ü¢8²º¢’¹.
+b
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(—ıµ•8Û»Éæ¸.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8³”¯¸.
+Q
+java:S1481"6Remove this unused "recommendedIncome" local variable.(ì¡„Ğ8²º¢’¹.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8°üØ™¸.
+g
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(œ©ûÿÿÿÿ8ˆñ÷õ·.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8ÅŒş’¹.
+F
+java:S1168"+Return an empty collection instead of null.(¥¹ï8‰¨’¹.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8Ñ®óŠ¸.
+F
+java:S1168"+Return an empty collection instead of null.(¥¹ï8°¿“¹.
+l	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ì½
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8ÅŒş’¹.
+b
+java:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(·¦Ã…8ğ°¨”¸.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8ıçÎ¸.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(åÓ¶ù8ÑÌö¸.
+F
+java:S1168"+Return an empty collection instead of null.(¥¹ï8•ÉÂ“¹.
+F
+java:S1168"+Return an empty collection instead of null.(¥¹ï8¶Öô“¹.
+o
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(÷­«§úÿÿÿÿ8ğ°¨”¸.

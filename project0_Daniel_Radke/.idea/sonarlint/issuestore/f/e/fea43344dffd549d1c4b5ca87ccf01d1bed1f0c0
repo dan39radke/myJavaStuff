@@ -1,0 +1,13 @@
+
+J
+java:S1066"/Merge this if statement with the enclosing one.(ŒœÍè8ÆˆÍš¹.
+y	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯òİŸşÿÿÿÿ8Ë½Ğæ¸.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(¾–¹úÿÿÿÿ8Šıï›¹.
+E
+java:S1068"*Remove this unused "income" private field.(—â³8ßä›¹.
+‰
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "creditPaymentInfo".(Ô’Ñ†şÿÿÿÿ8Ö¡ê›¹.
+‚
+java:S1488"gImmediately return this expression instead of assigning it to the temporary variable "loanPaymentInfo".(ò’‚Ä8„©œ¹.
+[	java:S125"<This block of commented-out lines of code should be removed.(¶…­åûÿÿÿÿ8¹“«›¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(’´Å€ÿÿÿÿÿ8ÆˆÍš¹.

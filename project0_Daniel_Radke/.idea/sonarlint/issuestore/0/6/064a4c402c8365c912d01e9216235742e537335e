@@ -1,0 +1,8 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(Þá—©8©ï¤Œ¸.
+j
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ËýÓèÿÿÿÿÿ8©ï¤Œ¸.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹ì½
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ŒÁ»Š8©ï¤Œ¸.

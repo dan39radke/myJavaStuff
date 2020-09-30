@@ -1,0 +1,23 @@
+
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ê•µã·.
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¶ÌÌÅ8¶é£ß·.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(”ğˆŸùÿÿÿÿ8Íš…à·.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ã–É8ó¬„à·.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ÷¢úÿÿÿÿ8ë¤Ãš¹.
+<	java:S131""Add a default case to this switch.(¶ÌÌÅ8¶é£ß·.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÙıàŸ8Ï¢ß·.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÅì»úÿÿÿÿ8ÊÛ§ß·.
+r	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÍ‹ûÿÿÿÿÿ
+X
+java:S1854"8Remove this useless assignment to local variable "jdbc".(ƒÎéÉùÿÿÿÿ8Áéà’¸.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ÌÅÙÍûÿÿÿÿ8ÊÛ§ß·.
+I
+java:S1481")Remove this unused "jdbc" local variable.(ƒÎéÉùÿÿÿÿ8Áéà’¸.
+k	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ªëÅŞúÿÿÿÿ8ğè©ß·.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(”ğˆŸùÿÿÿÿ8¦ÿ‰à·.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ã–É8Ä–‰à·.
+T
+java:S1128"9Remove this unused import 'com.ex.db.PGDBConnectionUtil'.(Êç¢Ä8›ƒ”‹¸.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(«å“‰øÿÿÿÿ8‚üŸß·.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(©ë»†8ğµÎß·.

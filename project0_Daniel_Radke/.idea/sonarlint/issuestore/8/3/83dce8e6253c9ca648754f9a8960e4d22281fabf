@@ -1,0 +1,45 @@
+
+<	java:S131""Add a default case to this switch.(™Ïêƒ8¹Øž‘¹.
+u
+java:S1192"ZDefine a constant instead of duplicating this literal "Press Y for yes, N for no" 3 times.(ß—‡ê8œ¨»œ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Å ¢Å8ÖÞÁœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ã¯’Ô8¹Øž‘¹.
+k
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(¶õ”­ûÿÿÿÿ8Ã®žœ¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Æ±øÍÿÿÿÿÿ8Œ´²œ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉÂÒ8‚ÓÝ˜¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü×óÛ8¹Øž‘¹.
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÇÒµ§8ÎÜ¼œ¹.
+;	java:S131""Add a default case to this switch.(Ÿ¼ï&8¦²¹œ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°ûÄô8¹Øž‘¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(—ÝÖ÷úÿÿÿÿ8õªÝœ¹.
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÇÒµ§8Íš†œ¹.
+R	java:S106"9Replace this use of System.out or System.err by a logger.(‡ò©8Ì«ö›¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8÷ö·›¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(É·ÆÞýÿÿÿÿ8Ã®žœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß—‡ê8Ã®žœ¹.
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ÇÒµ§8Ã®žœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ãø¤8Ã®žœ¹.
+<	java:S131""Add a default case to this switch.(ªêåã8òâ¸›¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(Ýÿ›Àþÿÿÿÿ8Œñ±›¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÄÌ¦€8Ã®žœ¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‰¢®²þÿÿÿÿ8°ïá˜¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬¥ä”8¤ÒÍ˜¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¢—¦8•ÕËœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß—‡ê8ã®³›¹.
+y	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÍ‹ûÿÿÿÿÿ8¹Øž‘¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ãø¤8áù›¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ô£ªº8äÉæœ¹.
+e
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ÿ¼ï&8¦²¹œ¹.
+f
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ªêåã8òâ¸›¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¹Øž‘¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÐöËô8¹Øž‘¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ß¥—Äÿÿÿÿÿ8¶Üéœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì¢—¦8üæÐœ¹.
+A	java:S131""Add a default case to this switch.(¶õ”­ûÿÿÿÿ8Ã®žœ¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(£¬Í†ûÿÿÿÿ8¹Øž‘¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß—‡ê8Ñÿºœ¹.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8·äµœ¹.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûüÝ’8ðü¹š¹.

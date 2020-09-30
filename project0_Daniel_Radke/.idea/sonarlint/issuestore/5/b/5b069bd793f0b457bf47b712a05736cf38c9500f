@@ -1,0 +1,10 @@
+
+‚
+java:S4165"eRemove this useless assignment; "welcome" already holds the assigned value along all execution paths.(ÇÀ˜ž8Èçœ‘¹.
+y
+java:S4165"cRemove this useless assignment; "login" already holds the assigned value along all execution paths.(ÃÞª½
+x
+java:S4165"bRemove this useless assignment; "user" already holds the assigned value along all execution paths.(»¶¤Ý
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÍ‹ûÿÿÿÿÿ
+W
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ8¢¿¯š¹.

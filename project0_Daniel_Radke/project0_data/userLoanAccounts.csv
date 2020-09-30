@@ -1,0 +1,14 @@
+﻿Account Number,Username,Loan Type,Bank,Balance,Last Payment,Due Date,Default?
+139000000000,dan39radke@gmail.com,Student ,Bank of America,4653,7/10/2020,7/13/2020,no
+490034500000,brad@gmail.com,Mortgage,Cambridge Savings Bank,54698.56,7/11/2020,7/14/2020,yes
+453054600000,chad@gmail.com,Car,Portland Savings Bank,3546.67,7/12/2020,7/15/2020,no
+465054600000,chad@gmail.com,Mortgage,Wells Fargo,153565.66,7/13/2020,7/16/2020,no
+890004566000,jack@gmail.com,Student ,People's Bank,85763,7/14/2020,7/17/2020,yes
+456065467000,jack@gmail.com,Mortgage,Bank of America,163246,7/15/2020,7/18/2020,no
+546036778000,jim@gmail.com,Student,Wells Fargo,5464,7/16/2020,7/19/2020,no
+546050060000,jim@gmail.com,Car,Wells Fargo,25633,7/17/2020,7/20/2020,no
+245356000000,jon@gmail.com,Car,Barclay's,4588,7/18/2020,7/21/2020,yes
+350004600000,jenna@gmail.com,Student,Wells Fargo,7634,7/19/2020,7/22/2020,yes
+249046500570,audrey@gmail.com,Business,Bank of America,73844,7/20/2020,7/23/2020,no
+349000000000,alyssa@gmail.com,Student,Barclay's,543,7/21/2020,7/24/2020,no
+894000000000,lily@gmail.com,Student,Barclay's,45432,7/22/2020,7/25/2020,no
